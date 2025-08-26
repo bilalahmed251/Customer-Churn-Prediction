@@ -13,7 +13,7 @@ Outcome (0 = no churn, 1 = churn)
 
 # Methodology
 # Data Preprocessing:
-# Replaced invalid zeros in Glucose, BloodPressure, SkinThickness, Insulin, and BMI with median values.
+Replaced invalid zeros in Glucose, BloodPressure, SkinThickness, Insulin, and BMI with median values.
 
 # Applied StandardScaler for feature scaling.
 Used SMOTE to handle class imbalance in the target variable.
